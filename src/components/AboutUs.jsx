@@ -35,7 +35,7 @@ export default function AboutUs() {
             <ul className="list-disc list-inside text-[#b0bec5] space-y-1">
                
               <li>Anvesha Chauhan</li>
-              <li>Shreyansh Jain</li>
+              <li>Shreyansh jain</li>
             </ul>
           </div>
           <div className="w-full md:w-1/2">
